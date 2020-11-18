@@ -1,0 +1,31 @@
+"""name="Vinayak"
+Password="PYTHON"
+if name == "Vinayak":
+    print("Hello,Vinayak!")
+if Password == "PYTHON":
+    print("Access Granted")
+else:
+    print("Incorrect Pass")"""
+
+#CONDITIONAL STATEMENT
+"""name="Vinayak"
+if name == "Vinayak":
+    print("Hi,Vinayak!")
+else:
+    print("hello, Stranger")"""
+
+"""name1="Ellen"
+age=20
+if name1 == "ElLen":
+    print("Hello,Ellen")
+elif age >= 18:
+    print("Ellen is above 18")
+else:
+    print("The condition given above are False")"""
+
+
+
+
+
+
+
